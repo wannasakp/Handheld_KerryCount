@@ -1,0 +1,14 @@
+C:\Users\Wannasak Penpipatkul\Documents\ASSET_HH\ASSET_HH\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Wannasak Penpipatkul\Documents\ASSET_HH\ASSET_HH\obj\Debug\ASSET_HH.frmMain.resources
+C:\Users\Wannasak Penpipatkul\Documents\ASSET_HH\ASSET_HH\obj\Debug\ASSET_HH.Properties.Resources.resources
+C:\Users\Wannasak Penpipatkul\Documents\ASSET_HH\ASSET_HH\obj\Debug\ASSET_HH.csproj.GenerateResource.Cache
+C:\Users\Wannasak Penpipatkul\Documents\ASSET_HH\ASSET_HH\obj\Debug\ASSET_HH.frmDoclist.resources
+C:\Users\Wannasak Penpipatkul\Documents\ASSET_HH\ASSET_HH\obj\Debug\ASSET_HH.frmInput.resources
+C:\Users\Wannasak Penpipatkul\Documents\ASSET_HH\ASSET_HH\bin\Debug\ASSET_HH.exe
+C:\Users\Wannasak Penpipatkul\Documents\ASSET_HH\ASSET_HH\bin\Debug\ASSET_HH.pdb
+C:\Users\Wannasak Penpipatkul\Documents\ASSET_HH\ASSET_HH\obj\Debug\ASSET_HH.exe
+C:\Users\Wannasak Penpipatkul\Documents\ASSET_HH\ASSET_HH\obj\Debug\ASSET_HH.pdb
+C:\Users\Wannasak Penpipatkul\Documents\ASSET_HH\ASSET_HH\bin\Debug\Data\Master.sdf
+C:\Users\Wannasak Penpipatkul\Documents\ASSET_HH\ASSET_HH\bin\Debug\Newtonsoft.Json.Compact.dll
+C:\Users\Wannasak Penpipatkul\Documents\ASSET_HH\ASSET_HH\bin\Debug\Newtonsoft.Json.Compact.pdb
+C:\Users\Wannasak Penpipatkul\Documents\ASSET_HH\ASSET_HH\bin\Debug\Newtonsoft.Json.Compact.xml
